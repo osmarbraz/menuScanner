@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Principal {
 
     public static void main(String[] args) {
+        //Variáveis do problema, que são preenchidas e manipuladas pelo menu.
         double base = 0;
         double altura = 0;
         double area = 0;
@@ -17,7 +18,7 @@ public class Principal {
         //Armazena opção lida
         int opcao = -1;
         while (opcao != 99) {
-            System.out.print("\n\t### Menu de Opções ###\n"                    
+            System.out.print("\n\t### Menu de Opções ###\n"
                     + " 1- Leitura dos dados\n"
                     + " 2- Impressão dos dados\n"
                     //Outras opções vão aqui
