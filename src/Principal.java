@@ -1,6 +1,6 @@
 
 /**
- * Programa que utiliza Scanner para construir um menu de opções.
+ * Implementação de exemplo que utiliza Scanner para construir um menu de opções.
  */
 import java.util.Scanner;
 
@@ -58,7 +58,7 @@ public class Principal {
                     System.out.println("\nOpção inválida!");
                     break;
                 }
-            }
-        }
-    }
+            }//Fim Switch
+        }//Fim While
+    }//Fim Main
 }
