@@ -46,6 +46,7 @@ public class Principal {
                     System.out.println("\nA área do triângulo: " + area);
                     break;
                 }
+                
                 //Outras opções vão aqui
 
                 //Opção de saída do programa
